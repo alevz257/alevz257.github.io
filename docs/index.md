@@ -15,5 +15,6 @@ Temporarily to lists all my posts in Mediums:
 **Exploring about utilizing Service Account Key for GKE Workload + HashiCorp Vault**
 
 [GKE + Service Account - Generating SA Key through HashiCorp Vault](https://medium.com/@johanes.glenn/gcp-service-account-hashicorp-vault-a88b1aa301ee)
+
 [GKE + Service Account - Auth to Vault to retrieve secrets](https://medium.com/faun/gcp-service-account-hashicorp-vault-auth-engine-3768ae46c1d8)
 
